@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Engenuis, I'm a civil engineer 👷🇧🇷
 - 💻 I’m interested in learn how to solve problems using codes,
-- 👨‍🎓 I’m currently learning CSS, JS, Git and HTML,
+- 👨‍🎓 I’m currently learning React,
 - 🔭 I’m looking to collaborate on any topics.
 - ✉️ How to reach me: igorbeserra10@hotmail.com
 <!--- 
